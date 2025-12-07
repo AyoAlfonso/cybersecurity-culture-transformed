@@ -18,7 +18,3 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
-
-# Node modules (if using any tools)
-node_modules/
-package-lock.json
