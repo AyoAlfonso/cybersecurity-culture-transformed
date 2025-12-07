@@ -1,0 +1,30 @@
+# Exports and generated files
+exports/docx/*.docx
+exports/backups/
+exports/media/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Keep directory structure
+!exports/docx/.gitkeep
+!exports/backups/.gitkeep
+
