@@ -1,6 +1,8 @@
 # Exports and generated files
 exports/docx/*.docx
-exports/backups/
+!exports/docx/.gitkeep
+exports/backups/*
+!exports/backups/.gitkeep
 exports/media/
 
 # OS files
